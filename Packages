@@ -1,0 +1,17 @@
+Package: me.shymemoriees.rose
+Version: 3.0-beta-2
+Architecture: iphoneos-arm
+Maintainer: ShyMemoriees 
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/me.shymemoriees.rose_3.0-beta-2-1+debug_iphoneos-arm.deb
+Size: 408150
+MD5sum: 5157a006dddd9c17318cd3cd905f7b35
+SHA1: deedb186b6dc1b8dfad52e800c8c53368ddaa397
+SHA256: 38c991e533ab9a45d70fe11aba6d9deae97da67a4aa49326d2b93606c2df964e
+Section: Tweaks
+Description: Getting peeped by a Rose doesn't feel that good, it's time to change that
+Author: ShyMemoriees 
+Name: Rose Beta
+SileoDepiction: https://repo.shymemoriees.me/depictions/rsebeta/rse.json
+Depiction: https://repo.shymemoriees.me/depictions/rsebeta/index.html
+Icon: https://repo.shymemoriees.me/depictions/rsebeta/assets/icon.png

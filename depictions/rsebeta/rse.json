@@ -1,0 +1,113 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://repo.shymemoriees.me/depictions/rse/assets/Banner.png",
+  "tintColor": "#A5ACF9",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Rose",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://repo.shymemoriees.me/depictions/rse/assets/ss1",
+              "fullSizeURL": "https://repo.shymemoriees.me/depictions/rse/assets/ss1.png"
+              "url": "https://repo.shymemoriees.me/depictions/rse/assets/ss2",
+              "fullSizeURL": "https://repo.shymemoriees.me/depictions/rse/assets/ss2.png"
+              "url": "https://repo.shymemoriees.me/depictions/rse/assets/ss3",
+              "fullSizeURL": "https://repo.shymemoriees.me/depictions/rse/assets/ss3.png"
+            },
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "Getting peeped by a Rose doesn't feel that good, it’s time to change that",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "3.0-beta-2",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "ShyMemoriees",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/ShyMemoriees",
+          "class": "DepictionTableButtonView",
+          "title": "Twitter",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://repo.shymemoriees.me/depictions/rse/assets/icon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "3.0-beta-2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Improved Activator Gesture Feedback, Screen Wake Feedback, Home Button Feedback, Advanced Shutdown Warning, Icon Tap Feedback, Feedback Whenever You Touch The Screen",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
