@@ -17,18 +17,18 @@ Depiction: https://repo.shymemoriees.me/depictions/rsebeta/index.html
 Icon: https://repo.shymemoriees.me/depictions/rsebeta/assets/icon.png
 
 Package: io.beppevoto.nothing
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: beppevoto 
 Depends: mobilesubstrate
-Filename: ./debs/io.beppevoto.nothing_0.0.1-1+debug_iphoneos-arm.deb
-Size: 1802
-MD5sum: 9a1f9dc0c135dd7b2e51f453c0f2c171
-SHA1: 2dba75a9c24425d321a5d7725c59c6a9ef7890d7
-SHA256: c96dd05f96df70875d6c756aeaf19775ad1fd0f9c1dfca29c581501a08bc6d30
+Filename: ./debs/io.beppevoto.nothing_0.0.1-6+debug_iphoneos-arm.deb
+Size: 3730
+MD5sum: 77e1847cacf29e5923aab35ffffc6c79
+SHA1: a6f7df2b0c09c20b85c706e68110200d1274e6bd
+SHA256: 37ddf2b2877eb3893f75d2a59a09714f5f12c6a044043a3f8f949f89f67e1ad7
 Section: Nothing
 Description: the official link for downloading nothing
-Author: Beppevoto 
+Author: beppevoto 
 Name: Nothing
 SileoDepiction: https://beppevoto.github.io/repo/depictions/nothing/rse.json
 Depiction: https://beppevoto.github.io/repo/depictions/nothing/index.html
