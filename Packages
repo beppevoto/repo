@@ -15,3 +15,21 @@ Name: Rose Beta
 SileoDepiction: https://repo.shymemoriees.me/depictions/rsebeta/rse.json
 Depiction: https://repo.shymemoriees.me/depictions/rsebeta/index.html
 Icon: https://repo.shymemoriees.me/depictions/rsebeta/assets/icon.png
+
+Package: io.beppevoto.nothing
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: beppevoto 
+Depends: mobilesubstrate
+Filename: ./debs/io.beppevoto.nothing_0.0.1-1+debug_iphoneos-arm.deb
+Size: 1802
+MD5sum: 9a1f9dc0c135dd7b2e51f453c0f2c171
+SHA1: 2dba75a9c24425d321a5d7725c59c6a9ef7890d7
+SHA256: c96dd05f96df70875d6c756aeaf19775ad1fd0f9c1dfca29c581501a08bc6d30
+Section: Nothing
+Description: the official link for downloading nothing
+Author: Beppevoto 
+Name: Nothing
+SileoDepiction: https://beppevoto.github.io/repo/depictions/nothing/rse.json
+Depiction: https://beppevoto.github.io/repo/depictions/nothing/index.html
+Icon: https://beppevoto.github.io/repo/depictions/nothing/icon.png
