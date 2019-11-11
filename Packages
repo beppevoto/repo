@@ -17,7 +17,7 @@ Depiction: https://repo.shymemoriees.me/depictions/rsebeta/index.html
 Icon: https://repo.shymemoriees.me/depictions/rsebeta/assets/icon.png
 
 Package: io.beppevoto.nothing
-Version: 0.2
+Version: 0.0.1-6+debug
 Architecture: iphoneos-arm
 Maintainer: beppevoto 
 Depends: mobilesubstrate
